@@ -1,4 +1,5 @@
 print("welcome to my ussd ")
+print("0.M-pesa")
 print("1.Buy airtime")
 print("2.Okoa airtime")
 print("3.Lipa okoa ")
